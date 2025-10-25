@@ -1,0 +1,16 @@
+com/digcoo/fitech/crypto/core/OrderExecutionModule.class
+com/digcoo/fitech/crypto/core/HistoricalDataHandler.class
+com/digcoo/fitech/crypto/core/DataFeedModule.class
+com/digcoo/fitech/crypto/observer/base/TickerObserver.class
+com/digcoo/fitech/crypto/controller/TestController.class
+com/digcoo/fitech/crypto/core/RiskManagementModule.class
+com/digcoo/fitech/crypto/BootApplication.class
+com/digcoo/fitech/crypto/core/callback/CandlestickWSCallback.class
+com/digcoo/fitech/crypto/observer/base/TradeObserver.class
+com/digcoo/fitech/crypto/core/callback/TradeWSCallback.class
+com/digcoo/fitech/crypto/config/StarterListener.class
+com/digcoo/fitech/crypto/observer/base/CandlestickObserver.class
+com/digcoo/fitech/crypto/core/PriceProtectionModule.class
+com/digcoo/fitech/crypto/core/RealTimeDataHandler.class
+com/digcoo/fitech/crypto/observer/StrategySignalObserver.class
+com/digcoo/fitech/crypto/core/PortfolioModule.class
